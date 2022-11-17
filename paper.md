@@ -5,13 +5,9 @@ Author: "Oday Allan"
 new line: "hello world"
 
 
-#Favorite African Animals
-
-Giraffe
-Meerkats
-
+#Favorite Africal Animals
+favorite animal: "Giraffe"
 
 # Favorite Australian Animals
 Koalas
-Spiders :3
 
